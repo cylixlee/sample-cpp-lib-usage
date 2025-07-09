@@ -1,0 +1,8 @@
+# The Wrap file.
+#
+# Wrap is a tool for managing external dependencies of a project. The files will be downloaded and put under
+# `subprojects` dir.
+
+[wrap-git]
+url = https://github.com/cylixlee/sample-cpp-lib.git
+revision = head
